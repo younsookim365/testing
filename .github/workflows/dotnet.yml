@@ -21,4 +21,4 @@ jobs:
       run: test -d docs
 
     - name: Check ERD file
-      run: test -f docs/DatabaseScript.sql
+      run: test -f docs/DatabaseScript.sq
